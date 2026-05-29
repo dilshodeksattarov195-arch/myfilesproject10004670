@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyealidate",
+        "uuid": 37247920,
+        "checksum": "uuymtd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
